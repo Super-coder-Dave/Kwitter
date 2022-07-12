@@ -1,0 +1,18 @@
+#h1{
+    font-family: 'Francois One', sans-serif;  
+}
+body{
+    background-color: rgb(49, 111, 225);
+}
+#Div1{
+    background-color: white;
+    width: 50%;
+    border: 5px rgb(0, 0, 0) ridge;
+    padding: 10px;
+    margin: 10px;
+}
+#ButtonLogin{
+    background-color: dodgerblue;
+    border-radius: 7px;
+    width: 70px;
+}

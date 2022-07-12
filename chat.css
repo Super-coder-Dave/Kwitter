@@ -1,0 +1,25 @@
+#logout{
+    background-color: rgb(255, 70, 70);
+    margin-left:0 ;
+    border-radius: 7px;
+    width: 70px;
+    height: 30px;
+    font-size: 16px;
+}
+body{
+    background-color: rgb(49, 111, 225);
+}
+h1{
+    font-family: 'Francois One', sans-serif;  
+}
+#RoomsDiv{
+    width: 50%;
+    height: auto;
+}
+#DivStyle{
+    Width: 30%;
+    height: 25%;
+    background-color: whitesmoke;
+    border-radius: 7px;
+
+}
